@@ -1,0 +1,8 @@
+******************************************
+Fecha y Hora: 10-06-2020 10:09:48
+Cuenta de origen: isla.pez.arbol
+Cuenta destinataria: isla.pez.arbol
+Se compro U$D20.0 a $1850.42
+Saldo restante: $9149.61
+Nuevo saldo de cuenta: $9149.61
+******************************************

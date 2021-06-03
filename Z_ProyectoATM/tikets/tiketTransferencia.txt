@@ -1,0 +1,7 @@
+******************************************
+Fecha y Hora: 12-06-2020 18:32:00
+Cuenta de origen: isla.pez.arbol
+Cuenta destinataria: uva.sandalia.halcon
+El monto transferido es de $200.0
+Saldo restante: $10000.03
+******************************************
